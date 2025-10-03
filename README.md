@@ -41,4 +41,4 @@ It demonstrates how to combine data from multiple related tables and explore dif
 - Always use appropriate indexes and join conditions to optimize performance.  
 
 ## Author
-Syed Ahmed Ali  
+vishwachari 
